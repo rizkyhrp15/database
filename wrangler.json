@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "rapid-moon-d2b3",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ce33565d-492b-42fd-bbf9-f48c4fda7eb2",
+      "database_name": "calm-firefly-d923-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
